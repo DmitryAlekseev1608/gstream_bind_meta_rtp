@@ -1,0 +1,2 @@
+/home/alex/Рабочий стол/gstream_bind_meta_rtp/builddir/meson-private/cmake_gstreamer-1.0/CMakeFiles/edit_cache.dir
+/home/alex/Рабочий стол/gstream_bind_meta_rtp/builddir/meson-private/cmake_gstreamer-1.0/CMakeFiles/rebuild_cache.dir

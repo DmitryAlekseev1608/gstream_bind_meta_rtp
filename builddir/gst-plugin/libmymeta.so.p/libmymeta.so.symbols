@@ -1,0 +1,7 @@
+ 0x000000000000000e (SONAME)             Библиотека soname: [libmymeta.so]
+gst_buffer_add_myvideo_meta_full T
+gst_buffer_get_myvideo_meta_id T
+gst_myvideo_meta_api_get_type T
+gst_myvideo_meta_get_info T
+string_to_typeid T
+typeid_to_string T

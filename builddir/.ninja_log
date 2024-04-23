@@ -1,0 +1,11 @@
+# ninja log v5
+0	114	1713897352061326405	gst-app/gst-app.p/src_main.c.o	ee9863b7ea5faedb
+0	115	1713897352061326405	gst-app/gst-app.p/src_play.c.o	785170e1927ba25f
+1	130	1713897352077327374	gst-plugin/libmymeta.so.p/src_gst-libs_gst_video_gstvideometa.c.o	a7c366c3a2d58c91
+115	148	1713897352093328341	gst-app/gst-app	a84d528a5bb3e391
+130	156	1713897352101328825	gst-plugin/libmymeta.so	f22062003da2ffa6
+1	159	1713897352105329067	gst-plugin/libgstmeta2rtp.so.p/src_gstmeta2rtp.c.o	5e824e6b9ef3fbd3
+156	218	1713897352157332213	gst-plugin/libmymeta.so.p/libmymeta.so.symbols	e08a519075dc0c1
+218	245	1713897352189334149	gst-plugin/libgstmeta2rtp.so	cabf821007e39525
+1	1375	1713897353321402651	gst-plugin/libgstmetahandle.so.p/src_gstmetahandle.cpp.o	9a4f9b89349bffee
+1376	1460	1713897353405407741	gst-plugin/libgstmetahandle.so	b010439c75f3b584

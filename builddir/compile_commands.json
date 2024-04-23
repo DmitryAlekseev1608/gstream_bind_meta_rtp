@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "/home/alex/Рабочий стол/gstream_bind_meta_rtp/builddir",
+    "command": "cc -Igst-app/gst-app.p -Igst-app -I../gst-app -I/usr/include/gstreamer-1.0 -I/usr/include/x86_64-linux-gnu -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -pthread -MD -MQ gst-app/gst-app.p/src_main.c.o -MF gst-app/gst-app.p/src_main.c.o.d -o gst-app/gst-app.p/src_main.c.o -c ../gst-app/src/main.c",
+    "file": "../gst-app/src/main.c",
+    "output": "gst-app/gst-app.p/src_main.c.o"
+  },
+  {
+    "directory": "/home/alex/Рабочий стол/gstream_bind_meta_rtp/builddir",
+    "command": "cc -Igst-app/gst-app.p -Igst-app -I../gst-app -I/usr/include/gstreamer-1.0 -I/usr/include/x86_64-linux-gnu -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -pthread -MD -MQ gst-app/gst-app.p/src_play.c.o -MF gst-app/gst-app.p/src_play.c.o.d -o gst-app/gst-app.p/src_play.c.o -c ../gst-app/src/play.c",
+    "file": "../gst-app/src/play.c",
+    "output": "gst-app/gst-app.p/src_play.c.o"
+  },
+  {
+    "directory": "/home/alex/Рабочий стол/gstream_bind_meta_rtp/builddir",
+    "command": "cc -Igst-plugin/libmymeta.so.p -Igst-plugin -I../gst-plugin -I../gst-plugin/src -I/usr/include/gstreamer-1.0 -I/usr/include/x86_64-linux-gnu -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/orc-0.4 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -MD -MQ gst-plugin/libmymeta.so.p/src_gst-libs_gst_video_gstvideometa.c.o -MF gst-plugin/libmymeta.so.p/src_gst-libs_gst_video_gstvideometa.c.o.d -o gst-plugin/libmymeta.so.p/src_gst-libs_gst_video_gstvideometa.c.o -c ../gst-plugin/src/gst-libs_gst_video_gstvideometa.c",
+    "file": "../gst-plugin/src/gst-libs_gst_video_gstvideometa.c",
+    "output": "gst-plugin/libmymeta.so.p/src_gst-libs_gst_video_gstvideometa.c.o"
+  },
+  {
+    "directory": "/home/alex/Рабочий стол/gstream_bind_meta_rtp/builddir",
+    "command": "cc -Igst-plugin/libgstmeta2rtp.so.p -Igst-plugin -I../gst-plugin -I../gst-plugin/src -I/usr/include/gstreamer-1.0 -I/usr/include/x86_64-linux-gnu -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/orc-0.4 -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -DHAVE_CONFIG_H -MD -MQ gst-plugin/libgstmeta2rtp.so.p/src_gstmeta2rtp.c.o -MF gst-plugin/libgstmeta2rtp.so.p/src_gstmeta2rtp.c.o.d -o gst-plugin/libgstmeta2rtp.so.p/src_gstmeta2rtp.c.o -c ../gst-plugin/src/gstmeta2rtp.c",
+    "file": "../gst-plugin/src/gstmeta2rtp.c",
+    "output": "gst-plugin/libgstmeta2rtp.so.p/src_gstmeta2rtp.c.o"
+  },
+  {
+    "directory": "/home/alex/Рабочий стол/gstream_bind_meta_rtp/builddir",
+    "command": "c++ -Igst-plugin/libgstmetahandle.so.p -Igst-plugin -I../gst-plugin -I../gst-plugin/src -I/usr/include/gstreamer-1.0 -I/usr/include/x86_64-linux-gnu -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/orc-0.4 -I/usr/include/opencv4 -fdiagnostics-color=always -D_GLIBCXX_ASSERTIONS=1 -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -DHAVE_CONFIG_H -MD -MQ gst-plugin/libgstmetahandle.so.p/src_gstmetahandle.cpp.o -MF gst-plugin/libgstmetahandle.so.p/src_gstmetahandle.cpp.o.d -o gst-plugin/libgstmetahandle.so.p/src_gstmetahandle.cpp.o -c ../gst-plugin/src/gstmetahandle.cpp",
+    "file": "../gst-plugin/src/gstmetahandle.cpp",
+    "output": "gst-plugin/libgstmetahandle.so.p/src_gstmetahandle.cpp.o"
+  }
+]
